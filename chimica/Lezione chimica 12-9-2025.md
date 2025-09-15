@@ -9,7 +9,7 @@ dipendono dalla concentrazione di soluto (numero di particelle) ma non dalla sua
 
 quando si aggiunge un soluto non volatile a un solvente, le proprietà fisiche della soluzione sono diverse da quelle del solvente puro
 
-### Tensione di vapore
+### Tensione/ Pressione di vapore
 
 se si pone un liquido volatile in un recipiente chiuso, esso evaporerà fino a quando la velocità di evaporazione uguaglia la velocità di condensazione. in questo stato finale il sistema è in equilibrio dinamico
 Quando si è raggiunto l'equilibrio è possibile misurare la pressione di vapore -> condizione sperimentale in cui si soddisfa la pressione esercitata dal liquido equivale alla velocità di condensazione
