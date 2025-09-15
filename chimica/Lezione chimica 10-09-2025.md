@@ -3,8 +3,9 @@
 
  in una miscela gassosa le molti totali sono la somma delle moli delle specie chimiche che compongono la miscela:  ntot = n1 + n2 + ...nn
 
-  La densità assoluta dei gas è data dal rapporto tra il peso e il volume della sostanza: d = massa/volume 
- dall'equazione di stato dei gas d = p * pm / rt
+  La densità assoluta dei gas è data dal rapporto tra il peso e il volume della sostanza: 
+  d = massa/volume 
+ dall'equazione di stato dei gas $$d = \frac{p * pm}{rt} $$
 
 
 un campione d'aria contiene 0,054 moli di O2 e 0.203 moli di altri gas (essenzialmente azoto molecolare) calcolare la pressione parziale dell'ossigeno sapendo che la pressione di questa è di 1 atm
@@ -131,6 +132,8 @@ ed è pari al numero di moli / volume in litri di soluzione
 
 c = n in moli di soluto / volume in litri di soluzione
 
+
+
 si utilizza per tutte quelle proprietà che hanno a che fare con la temperatura
 ### molalità (m)
 
@@ -145,3 +148,6 @@ esempio: trova la molalità di una soluzione acquosa si cloruro di litio (LiCl m
 0.047 / 0,15 = 0.31 m
 
 #### in soluzioni acquose diluite la molalità = molarità infatti 1000 g di h2o = 1L
+
+
+[prossima lezione](obsidian://open?vault=university&file=medicina%2Fchimica%2FLezione%20chimica%2011-9-2025)

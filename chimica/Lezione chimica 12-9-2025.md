@@ -134,3 +134,6 @@ la condizione da cercare è pigraco glucosio = pigreco Na2CO3
 pigreco glucosio = c glucosio RT = 3 * CNa2Co3 * RT = pigreco CNa2Co3
 
 c glucosio = 3 * C Na2CO3 = 3 * 
+
+
+
